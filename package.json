@@ -1,0 +1,12 @@
+{
+  "name": "laboration",
+  "version": "1.0.0",
+  "description": "",
+  "main": "game.js",
+  "scripts": {
+    "test": "node devStart",
+    "test": "nodemon devStart"
+  },
+  "author": "",
+  "license": "ISC"
+}
