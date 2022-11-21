@@ -7,6 +7,6 @@ och slåss mot bossen. Spelet är i form av alerts som poppar upp på webbläsar
 på hemsidan. Man kan då med hjälp av prompts skriva in svar på frågorna eller valen.
 
 Demo-länk:
-https://github.com/isabellaisaxsson
+https://github.com/isabellaisaxsson/Laboration-1.git
 
 
